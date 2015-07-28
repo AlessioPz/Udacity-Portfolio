@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Impostazioni</string>
+    <string name="lbl_title_main">Le mie Nanodegree App!</string>
+    <string name="msg_label_toast">Questo bottone lancierà la mia </string>
+</resources>

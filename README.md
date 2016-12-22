@@ -1,2 +1,2 @@
 # Udacity-Portfolio
-Demo app for the Udacity Nanodegree program
+Android Developer Nanodegree Program's project
